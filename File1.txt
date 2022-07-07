@@ -3,3 +3,5 @@ Welcome to Git
 Alphabet starts with A
 
 Bug 1 resolved
+
+new feature added
